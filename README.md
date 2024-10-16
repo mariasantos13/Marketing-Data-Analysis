@@ -9,6 +9,8 @@ This project analyzes user behavior, sales data, and marketing spend for Y.Afish
 **Available Notebooks**
 
 - [Marketing Data Analysis (English)](https://github.com/mariasantos13/Marketing-Data-Analysis/blob/main/Marketing-Data-Analysis.ipynb)
+- [Análisis de Datos de Marketing (Español)](https://github.com/mariasantos13/Marketing-Data-Analysis/blob/main/An%C3%A1lisis%20de%20Datos%20de%20Marketing)
+
 
 
 **Key Features**
